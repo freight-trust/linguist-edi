@@ -45,10 +45,9 @@ Electronic Data Interchange:
   - ".x12"
   - ".edifact"
   tm_scope: source.edi
-  ace_mode: edi
   aliases:
   - x12
-  - SEF
+  - edifact
   filenames:
   - string.edi
 #  interpreters:
